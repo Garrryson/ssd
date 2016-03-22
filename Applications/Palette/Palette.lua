@@ -1,1 +1,0 @@
-require("palette").draw("auto", "auto", 0x6600FF)
